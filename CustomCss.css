@@ -1,0 +1,50 @@
+#mainTitleHeader {
+    text-align: center;
+    font-size: 100px;
+    padding-bottom: none !important;
+}
+
+#purpleText {
+    color: purple;
+}
+
+#ferrariButton a {
+    background-color: red !important;
+}
+
+#fontArial {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+.centeredText {
+    text-align: center;
+}
+
+ul {
+    font-weight: 600;
+}
+
+.contact {
+    color: pink !important;
+}
+
+.copyright {
+    color: blue !important;
+}
+
+a:hover {
+    /* stroke-width: 3rem !important; */
+    text-shadow: seagreen !important;
+    color: orange;
+    stroke-width: 100px !important;
+}
+
+.alt {
+    float: left !important;
+}
+
+#sexyText {
+    font-size: 20px !important;
+}
+
+
